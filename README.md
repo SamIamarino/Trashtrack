@@ -22,9 +22,7 @@ O **TrashTrack** permite que usuários registrem pontos de coleta, tipos de res�
 ### ✨ Funcionalidades principais:
 
 - ✅ Cadastro e login de usuários  
-- 🗑️ Registro de pontos de descarte  
-- ♻️ Categorização dos tipos de resíduos  
-- 📈 Visualização de histórico de descarte  
+- 🗑️ Registro de pontos de descarte   
 - 📱 Interface responsiva com Bootstrap  
 
 ---
@@ -36,6 +34,7 @@ O **TrashTrack** permite que usuários registrem pontos de coleta, tipos de res�
 - `HTML5` e `CSS3` – Estrutura e estilização das páginas  
 - `Bootstrap` – Estilização responsiva e componentes visuais  
 - `MySQL` – Banco de dados relacional  
-- `JDBC` – Integração entre Java e MySQL  
+- `JDBC` – Integração entre Java e MySQL
+- `Google Maps API` – Exibição de mapas e localização dos pontos de descarte   
 
 ---
