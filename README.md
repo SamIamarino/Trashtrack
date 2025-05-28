@@ -35,6 +35,6 @@ O **TrashTrack** permite que usuários registrem pontos de coleta, tipos de res�
 - `Bootstrap` – Estilização responsiva e componentes visuais  
 - `MySQL` – Banco de dados relacional  
 - `JDBC` – Integração entre Java e MySQL
-- `Google Maps API` – Exibição de mapas e localização dos pontos de descarte   
+- `Google Maps API` – Exibição de mapas e localização dos pontos de coleta   
 
 ---
