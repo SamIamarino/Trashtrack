@@ -1,6 +1,6 @@
 # TrashTrack ♻️
 
-**TrashTrack** é uma aplicação web desenvolvida como parte da disciplina de **Engenharia de Software**, com o objetivo de promover a gestão eficiente de resíduos através do rastreamento e registro de descarte de lixo. A solução foi implementada utilizando tecnologias como **Java Servlets**, **JSP**, **HTML**, **CSS**, **Bootstrap** e **MySQL**.
+**TrashTrack** é uma aplicação web desenvolvida como parte da disciplina de **Engenharia de Software**, com o objetivo de influenciar a coleta de lixo e promover o rastreamento de descarte de lixo. A solução foi implementada utilizando tecnologias como **Java Servlets**, **JSP**, **HTML**, **CSS**, **Bootstrap** e **MySQL**.
 
 ---
 
