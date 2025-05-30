@@ -17,7 +17,7 @@
 
 ## 📚 Descrição do Projeto
 
-O **TrashTrack** permite que usuários registrem pontos de coleta, tipos de resíduos descartados, além de visualizar estatísticas sobre os descartes realizados. A aplicação visa estimular práticas sustentáveis e auxiliar na logística reversa e conscientização ambiental.
+O **TrashTrack** permite que usuários registrem pontos de coleta, tipos de resíduos descartados. A aplicação visa estimular práticas sustentáveis e auxiliar na logística reversa e conscientização ambiental.
 
 ### ✨ Funcionalidades principais:
 
